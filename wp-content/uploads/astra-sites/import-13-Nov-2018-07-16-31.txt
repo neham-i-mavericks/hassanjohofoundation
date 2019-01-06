@@ -1,0 +1,416 @@
+
+# System Details: 
+Debug Mode 		: Disabled
+Operating System 	: WINNT
+Software 		: Apache/2.4.34 (Win32) OpenSSL/1.1.0i PHP/7.2.9
+MySQL version 		: 5.7.23
+PHP Version 		: 7.2.9
+PHP Max Input Vars 	: 1000
+PHP Max Post Size 	: 1000M
+PHP Extension GD 	: Yes
+PHP Max Execution Time 	: 30
+Max Upload Size 	: 1,000 MB
+Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+Timezone 		: 0
+
+-----
+
+Importing Started! - 07:27:17 UTC
+---
+
+WHY IMPORT PROCESS CAN FAIL? READ THIS - 
+https://wpastra.com/docs/?p=1314&utm_source=demo-import-panel&utm_campaign=import-error&utm_medium=wp-dashboard
+
+---
+
+
+1. Imported "Customizer Settings"  - 07:27:18 UTC
+
+---
+
+2. Importing "XML"  - 07:27:20 UTC
+Imported "Primary Menu" (nav_menu)
+Term 6 remapped to 2
+Failed to import astra-site-page-builder Beaver Builder
+Invalid taxonomy.
+Failed to import astra-site-page-builder Brizy
+Invalid taxonomy.
+Failed to import astra-site-page-builder Elementor
+Invalid taxonomy.
+Failed to import astra-sites-type Free
+Invalid taxonomy.
+Imported "page" (elementor_library_type)
+Term 7 remapped to 3
+Failed to import astra-sites-type Premium
+Invalid taxonomy.
+Imported "section" (elementor_library_type)
+Term 8 remapped to 4
+Imported "HOME" (Page)
+Post 4 remapped to 15
+Imported "WHO WE ARE" (Page)
+Post 5 remapped to 16
+Imported "WHAT WE DO" (Page)
+Post 6 remapped to 17
+Imported "OUR PARTNERS" (Page)
+Post 7 remapped to 18
+Imported "CONTACT US" (Page)
+Post 8 remapped to 19
+Imported "" (Navigation Menu Item)
+Post 9 remapped to 20
+Processing menu item post_type
+Menu item 8 mapped to 19
+Imported "" (Navigation Menu Item)
+Post 10 remapped to 21
+Processing menu item post_type
+Menu item 7 mapped to 18
+Imported "" (Navigation Menu Item)
+Post 11 remapped to 22
+Processing menu item post_type
+Menu item 6 mapped to 17
+Imported "" (Navigation Menu Item)
+Post 12 remapped to 23
+Processing menu item post_type
+Menu item 5 mapped to 16
+Imported "" (Navigation Menu Item)
+Post 13 remapped to 24
+Processing menu item post_type
+Menu item 4 mapped to 15
+Imported "BG-Img-02-free-img" (Media)
+Post 21 remapped to 25
+Imported "BG-Img-03-free-img" (Media)
+Post 22 remapped to 26
+Imported "BG-Img-04-free-img" (Media)
+Post 23 remapped to 27
+Imported "gallery-img-02-free-img" (Media)
+Post 25 remapped to 28
+Imported "gallery-img-04-free-img" (Media)
+Post 27 remapped to 29
+Imported "gallery-img-05-free-img" (Media)
+Post 28 remapped to 30
+Imported "partners-logo-01" (Media)
+Post 31 remapped to 31
+Imported "partners-logo-02" (Media)
+Post 32 remapped to 32
+Imported "partners-logo-03" (Media)
+Post 33 remapped to 33
+Imported "partners-logo-04" (Media)
+Post 34 remapped to 34
+Imported "partners-logo-05" (Media)
+Post 35 remapped to 35
+Imported "favicon-free-img" (Media)
+Post 37 remapped to 37
+Imported "stories-img-01-free-img" (Media)
+Post 66 remapped to 66
+Imported "stories-img-02-free-img" (Media)
+Post 67 remapped to 67
+Imported "stories-img-03-free-img" (Media)
+Post 68 remapped to 68
+Imported "stories-img-04-free-img" (Media)
+Post 69 remapped to 69
+Imported "stories-img-05-free-img-06" (Media)
+Post 70 remapped to 70
+Imported "stories-img-05-free-img" (Media)
+Post 71 remapped to 71
+Imported "partners-logo-01-dark" (Media)
+Post 73 remapped to 73
+Imported "partners-logo-02-dark" (Media)
+Post 74 remapped to 74
+Imported "partners-logo-03-dark" (Media)
+Post 75 remapped to 75
+Imported "partners-logo-04-dark" (Media)
+Post 76 remapped to 76
+Imported "partners-logo-05-dark" (Media)
+Post 77 remapped to 77
+Imported "Contact Form" (Contact Form)
+Post 78 remapped to 78
+Imported "BG-Img-06-free-img" (Media)
+Post 83 remapped to 83
+Imported "BG-Img-08-free-img" (Media)
+Post 85 remapped to 85
+Imported "Make a gift today" (Form)
+Post 101 remapped to 101
+Imported "DONATE" (Page)
+Post 103 remapped to 103
+Imported "logo-regular-free-img" (Media)
+Post 111 remapped to 111
+Imported "logo-retina-free-img" (Media)
+Post 112 remapped to 112
+Imported "partners-logo-07" (Media)
+Post 115 remapped to 115
+Imported "partners-logo-06" (Media)
+Post 116 remapped to 116
+Imported "BG-Img-09-free-img" (Media)
+Post 117 remapped to 117
+Imported "gallery-img-06-free-img" (Media)
+Post 118 remapped to 118
+Imported "gallery-img-07-free-img" (Media)
+Post 119 remapped to 119
+Imported "gallery-img-08-free-img" (Media)
+Post 120 remapped to 120
+Imported "cropped-favicon-free-img.png" (Media)
+Post 126 remapped to 126
+Imported "" (Navigation Menu Item)
+Post 133 remapped to 133
+Processing menu item post_type
+Menu item 103 mapped to 103
+Imported "Harshad Dhale" (Donation)
+Post 153 remapped to 153
+Imported "about-img-01-free-img" (Media)
+Post 154 remapped to 154
+Imported "about-img-02-free-img" (Media)
+Post 155 remapped to 155
+Imported "BG-Img-01-free-img" (Media)
+Post 156 remapped to 156
+Imported "BG-Img-05-free-img" (Media)
+Post 157 remapped to 157
+Imported "BG-Img-07-free-img" (Media)
+Post 158 remapped to 158
+Imported "gallery-img-01-free-img" (Media)
+Post 159 remapped to 159
+Imported "gallery-img-03-free-img" (Media)
+Post 160 remapped to 160
+Imported "demo-screenshot-free-img" (Media)
+Post 162 remapped to 162
+Running post-processing for post 15
+Could not find the author for "HOME" (post #15)
+Post 15 was imported with author "alex", but could not be found
+Running post-processing for post 16
+Could not find the author for "WHO WE ARE" (post #16)
+Post 16 was imported with author "alex", but could not be found
+Running post-processing for post 17
+Could not find the author for "WHAT WE DO" (post #17)
+Post 17 was imported with author "alex", but could not be found
+Running post-processing for post 18
+Could not find the author for "OUR PARTNERS" (post #18)
+Post 18 was imported with author "alex", but could not be found
+Running post-processing for post 19
+Could not find the author for "CONTACT US" (post #19)
+Post 19 was imported with author "alex", but could not be found
+Post 19 was marked for post-processing, but none was required.
+Running post-processing for post 20
+Could not find the author for "" (post #20)
+Post 20 was imported with author "alex", but could not be found
+Post 20 was marked for post-processing, but none was required.
+Running post-processing for post 21
+Could not find the author for "" (post #21)
+Post 21 was imported with author "alex", but could not be found
+Post 21 was marked for post-processing, but none was required.
+Running post-processing for post 22
+Could not find the author for "" (post #22)
+Post 22 was imported with author "alex", but could not be found
+Post 22 was marked for post-processing, but none was required.
+Running post-processing for post 23
+Could not find the author for "" (post #23)
+Post 23 was imported with author "alex", but could not be found
+Post 23 was marked for post-processing, but none was required.
+Running post-processing for post 24
+Could not find the author for "" (post #24)
+Post 24 was imported with author "alex", but could not be found
+Post 24 was marked for post-processing, but none was required.
+Running post-processing for post 25
+Could not find the author for "BG-Img-02-free-img" (post #25)
+Post 25 was imported with author "alex", but could not be found
+Post 25 was marked for post-processing, but none was required.
+Running post-processing for post 26
+Could not find the author for "BG-Img-03-free-img" (post #26)
+Post 26 was imported with author "alex", but could not be found
+Post 26 was marked for post-processing, but none was required.
+Running post-processing for post 27
+Could not find the author for "BG-Img-04-free-img" (post #27)
+Post 27 was imported with author "alex", but could not be found
+Post 27 was marked for post-processing, but none was required.
+Running post-processing for post 28
+Could not find the author for "gallery-img-02-free-img" (post #28)
+Post 28 was imported with author "alex", but could not be found
+Post 28 was marked for post-processing, but none was required.
+Running post-processing for post 29
+Could not find the author for "gallery-img-04-free-img" (post #29)
+Post 29 was imported with author "alex", but could not be found
+Post 29 was marked for post-processing, but none was required.
+Running post-processing for post 30
+Could not find the author for "gallery-img-05-free-img" (post #30)
+Post 30 was imported with author "alex", but could not be found
+Post 30 was marked for post-processing, but none was required.
+Running post-processing for post 31
+Could not find the author for "partners-logo-01" (post #31)
+Post 31 was imported with author "alex", but could not be found
+Post 31 was marked for post-processing, but none was required.
+Running post-processing for post 32
+Could not find the author for "partners-logo-02" (post #32)
+Post 32 was imported with author "alex", but could not be found
+Post 32 was marked for post-processing, but none was required.
+Running post-processing for post 33
+Could not find the author for "partners-logo-03" (post #33)
+Post 33 was imported with author "alex", but could not be found
+Post 33 was marked for post-processing, but none was required.
+Running post-processing for post 34
+Could not find the author for "partners-logo-04" (post #34)
+Post 34 was imported with author "alex", but could not be found
+Post 34 was marked for post-processing, but none was required.
+Running post-processing for post 35
+Could not find the author for "partners-logo-05" (post #35)
+Post 35 was imported with author "alex", but could not be found
+Post 35 was marked for post-processing, but none was required.
+Running post-processing for post 37
+Could not find the author for "favicon-free-img" (post #37)
+Post 37 was imported with author "alex", but could not be found
+Post 37 was marked for post-processing, but none was required.
+Running post-processing for post 66
+Could not find the author for "stories-img-01-free-img" (post #66)
+Post 66 was imported with author "alex", but could not be found
+Post 66 was marked for post-processing, but none was required.
+Running post-processing for post 67
+Could not find the author for "stories-img-02-free-img" (post #67)
+Post 67 was imported with author "alex", but could not be found
+Post 67 was marked for post-processing, but none was required.
+Running post-processing for post 68
+Could not find the author for "stories-img-03-free-img" (post #68)
+Post 68 was imported with author "alex", but could not be found
+Post 68 was marked for post-processing, but none was required.
+Running post-processing for post 69
+Could not find the author for "stories-img-04-free-img" (post #69)
+Post 69 was imported with author "alex", but could not be found
+Post 69 was marked for post-processing, but none was required.
+Running post-processing for post 70
+Could not find the author for "stories-img-05-free-img-06" (post #70)
+Post 70 was imported with author "alex", but could not be found
+Post 70 was marked for post-processing, but none was required.
+Running post-processing for post 71
+Could not find the author for "stories-img-05-free-img" (post #71)
+Post 71 was imported with author "alex", but could not be found
+Post 71 was marked for post-processing, but none was required.
+Running post-processing for post 73
+Could not find the author for "partners-logo-01-dark" (post #73)
+Post 73 was imported with author "alex", but could not be found
+Post 73 was marked for post-processing, but none was required.
+Running post-processing for post 74
+Could not find the author for "partners-logo-02-dark" (post #74)
+Post 74 was imported with author "alex", but could not be found
+Post 74 was marked for post-processing, but none was required.
+Running post-processing for post 75
+Could not find the author for "partners-logo-03-dark" (post #75)
+Post 75 was imported with author "alex", but could not be found
+Post 75 was marked for post-processing, but none was required.
+Running post-processing for post 76
+Could not find the author for "partners-logo-04-dark" (post #76)
+Post 76 was imported with author "alex", but could not be found
+Post 76 was marked for post-processing, but none was required.
+Running post-processing for post 77
+Could not find the author for "partners-logo-05-dark" (post #77)
+Post 77 was imported with author "alex", but could not be found
+Post 77 was marked for post-processing, but none was required.
+Running post-processing for post 78
+Could not find the author for "Contact Form" (post #78)
+Post 78 was imported with author "alex", but could not be found
+Post 78 was marked for post-processing, but none was required.
+Running post-processing for post 83
+Could not find the author for "BG-Img-06-free-img" (post #83)
+Post 83 was imported with author "alex", but could not be found
+Post 83 was marked for post-processing, but none was required.
+Running post-processing for post 85
+Could not find the author for "BG-Img-08-free-img" (post #85)
+Post 85 was imported with author "alex", but could not be found
+Post 85 was marked for post-processing, but none was required.
+Running post-processing for post 101
+Could not find the author for "Make a gift today" (post #101)
+Post 101 was imported with author "alex", but could not be found
+Post 101 was marked for post-processing, but none was required.
+Running post-processing for post 103
+Could not find the author for "DONATE" (post #103)
+Post 103 was imported with author "alex", but could not be found
+Post 103 was marked for post-processing, but none was required.
+Running post-processing for post 111
+Could not find the author for "logo-regular-free-img" (post #111)
+Post 111 was imported with author "alex", but could not be found
+Post 111 was marked for post-processing, but none was required.
+Running post-processing for post 112
+Could not find the author for "logo-retina-free-img" (post #112)
+Post 112 was imported with author "alex", but could not be found
+Post 112 was marked for post-processing, but none was required.
+Running post-processing for post 115
+Could not find the author for "partners-logo-07" (post #115)
+Post 115 was imported with author "alex", but could not be found
+Post 115 was marked for post-processing, but none was required.
+Running post-processing for post 116
+Could not find the author for "partners-logo-06" (post #116)
+Post 116 was imported with author "alex", but could not be found
+Post 116 was marked for post-processing, but none was required.
+Running post-processing for post 117
+Could not find the author for "BG-Img-09-free-img" (post #117)
+Post 117 was imported with author "alex", but could not be found
+Post 117 was marked for post-processing, but none was required.
+Running post-processing for post 118
+Could not find the author for "gallery-img-06-free-img" (post #118)
+Post 118 was imported with author "alex", but could not be found
+Post 118 was marked for post-processing, but none was required.
+Running post-processing for post 119
+Could not find the author for "gallery-img-07-free-img" (post #119)
+Post 119 was imported with author "alex", but could not be found
+Post 119 was marked for post-processing, but none was required.
+Running post-processing for post 120
+Could not find the author for "gallery-img-08-free-img" (post #120)
+Post 120 was imported with author "alex", but could not be found
+Post 120 was marked for post-processing, but none was required.
+Running post-processing for post 126
+Could not find the author for "cropped-favicon-free-img.png" (post #126)
+Post 126 was imported with author "ramak", but could not be found
+Post 126 was marked for post-processing, but none was required.
+Running post-processing for post 133
+Could not find the author for "" (post #133)
+Post 133 was imported with author "sujay", but could not be found
+Post 133 was marked for post-processing, but none was required.
+Running post-processing for post 153
+Could not find the author for "Harshad Dhale" (post #153)
+Post 153 was imported with author "harshadd", but could not be found
+Post 153 was marked for post-processing, but none was required.
+Running post-processing for post 154
+Could not find the author for "about-img-01-free-img" (post #154)
+Post 154 was imported with author "alex", but could not be found
+Post 154 was marked for post-processing, but none was required.
+Running post-processing for post 155
+Could not find the author for "about-img-02-free-img" (post #155)
+Post 155 was imported with author "alex", but could not be found
+Post 155 was marked for post-processing, but none was required.
+Running post-processing for post 156
+Could not find the author for "BG-Img-01-free-img" (post #156)
+Post 156 was imported with author "alex", but could not be found
+Post 156 was marked for post-processing, but none was required.
+Running post-processing for post 157
+Could not find the author for "BG-Img-05-free-img" (post #157)
+Post 157 was imported with author "alex", but could not be found
+Post 157 was marked for post-processing, but none was required.
+Running post-processing for post 158
+Could not find the author for "BG-Img-07-free-img" (post #158)
+Post 158 was imported with author "alex", but could not be found
+Post 158 was marked for post-processing, but none was required.
+Running post-processing for post 159
+Could not find the author for "gallery-img-01-free-img" (post #159)
+Post 159 was imported with author "alex", but could not be found
+Post 159 was marked for post-processing, but none was required.
+Running post-processing for post 160
+Could not find the author for "gallery-img-03-free-img" (post #160)
+Post 160 was imported with author "alex", but could not be found
+Post 160 was marked for post-processing, but none was required.
+Running post-processing for post 162
+Could not find the author for "demo-screenshot-free-img" (post #162)
+Post 162 was imported with author "alex", but could not be found
+Post 162 was marked for post-processing, but none was required.
+
+---
+
+3. Imported "Site Options"  - 07:29:15 UTC
+
+---
+
+4. Importing "Widgets"  - 07:29:18 UTC
+Sidebar: sidebar-1
+Widget: "Search" - Widget already exists
+Widget: "Recent Posts" - Widget already exists
+Widget: "Recent Comments" - Widget already exists
+Widget: "Archives" - Widget already exists
+Widget: "Categories" - Widget already exists
+Widget: "Meta" - Widget already exists
+
+---
+
+Import Complete!  - 07:29:20 UTC

@@ -1,0 +1,303 @@
+/* Developer Control */
+
+
+
+.child {
+    display: inline-block;
+    font-size:14px;
+    width: calc(100% * (1/4) - 10px - 1px)
+}
+#container {
+     background: none repeat scroll 0 0 #ccc;
+    display: table;
+    font-size: 14px;
+    line-height: 3.5;
+}
+.left_col, .right_col {
+    display: table-cell
+}
+.left_col {
+    padding: 25px;
+    width: 53%;
+    background:#F9F9F9;
+}
+.right_col {
+    background: #F1F1F1;
+    
+	 padding: 25px;
+}
+ .dbtable {
+    background: #F1F1F1 none repeat scroll 0 0;
+    border: 2px solid;
+}
+
+ 
+
+.page-numbers  {
+display:block;
+float:left;
+margin: 2px 2px 2px 0;
+padding:6px 9px 5px 9px;
+text-decoration:none;
+width:auto;
+color:#fff;
+background: #555;
+}
+ 
+.page-numbers a:hover{
+color:#fff;
+background: #3279BB;
+}
+ 
+.page-numbers.current {
+  padding:6px 9px 5px 9px;
+background: #3279BB;
+color:#fff;
+}
+.page-numbers .current{
+padding:6px 9px 5px 9px;
+background: #3279BB;
+color:#fff;
+}
+.backup_database-tabs{
+	display: block;
+}
+.backup_database-cloud td {
+    font-size: 16px;
+}
+
+
+
+.backup_database-cloud {
+    background: white none repeat scroll 0 0;
+    border: 1px solid;
+    font-size: 12px !important;
+    font-weight: normal !important;
+    line-height: 1px !important;
+    margin-top: 10px;
+    padding: 10px;
+}
+.backup_database_button:hover {
+color:white !important;
+}
+
+.backup_database_button {
+	 cursor: all-scroll;
+   background-color: #404040;
+   
+    border: 1px solid #25729a;
+    border-radius: 5px;
+    color: #fff;
+    display: inline-block;
+    font-family: arial,helvetica,sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    margin: 10px;
+    outline: medium none;
+    padding: 14px;
+    text-align: center;
+    text-decoration: none;
+    text-shadow: -1px -1px 0 rgba(0, 0, 0, 0.3);
+}
+
+
+
+	.backup_database-tabs ul {
+		width: 100%;
+	}
+
+	.backup_database-tabs ul li {
+		float: left;
+		display: inline;
+		margin: 0 2px;
+	}
+
+	.backup_database-tabs ul li:first-of-type {
+		margin-left: 0;
+	}
+
+	.backup_database-tabs ul li a {
+		color: #fff;
+		display: block;
+		line-height: 42px;
+		height: 42px;
+		outline: none;
+		 background: none repeat scroll 0 0 #3f3f3f;
+		text-decoration: none;
+		border: 1px solid #e5e5e5;
+ 		border-bottom: 0;
+ 		padding: 0 20px;
+		font-size:13px;
+		font-weight: bold;
+ 		opacity: 0.9;
+		border-radius: 3px 3px 0 0;
+	}
+
+	
+
+	.backup_database-tabs ul li a.active {
+		 background: none repeat scroll 0 0 #229e89;
+    border: 1px solid;
+    color: white;
+    font-weight: bold;
+    opacity: 1;
+	}
+
+.backup_database-wrapper {
+	border: 1px solid #e5e5e5;
+	padding: 15px;	
+	background: #ffffff;
+}
+
+.clearboth {
+	clear: both;
+}
+
+/* General */
+
+.tab-description {
+	background: #FFF;
+	border-color: #dfdfdf;
+	position: relative;
+	overflow: auto;
+	margin-bottom: 20px;
+	padding: 10px 10px 5px;
+	border-width: 1px;
+	border-style: solid;
+	border-radius: 3px;
+	font-size: 13px;
+	line-height: 2.1em;
+}
+
+	.tab-description h3 {
+		margin: 0;
+		font-family: HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",sans-serif;
+		font-size: 21px;
+		font-weight: 400;
+		line-height: 1.2;
+	}
+
+	.tab-description p {
+		line-height: 1.4;
+	}
+
+	tr {
+		height: 40px;	
+	}
+
+
+/* Promo Message - Welcome Panel ========================= */
+.promo-message {
+	margin-top: 20px !important;
+	line-height: 1.4 !important;
+}
+
+/* Overides ========================= */
+.wp-core-ui .welcome-panel .button.button-hero {
+	margin: 0;
+	margin-top: 3px;
+}
+.welcome-panel {
+	padding: 25px 15px 25px;
+}
+
+/* -----------------------------------------------------
+	ALERTS AND MESSAGES
+----------------------------------------------------- */
+.backup_database-license-status {
+	display: block;
+	width: 98%;
+	padding: 1%;
+	font-weight: normal;
+}
+
+.backup_database-license-status.valid {
+	color: green;
+	border: 1px solid green;
+	background: #90EE90;
+}
+
+.backup_database-license-status.not-valid {
+	color: #FFFFFF;
+	border: 1px solid #CD5C5C;
+	background: #F08080;
+}
+
+#backup_database-backup-list td {
+	background-color: #FFF;
+}
+
+.doing-backup {
+	display: none;
+}
+
+/* Backup Options */
+section#backup-options #tabs ul {
+	float:left;
+	list-style:none;
+	height:32px;
+	width:100%;
+	margin:0;
+	padding:0;
+	margin-bottom: 20px;
+	background: #f1f1f1;
+}
+ 
+	section#backup-options #tabs ul li{
+		float:left;
+		height:31px;
+		line-height:31px;
+		border:1px solid #e5e5e5;
+		border-bottom: none;
+		overflow:hidden;
+		position:relative;
+		background:#FFF;
+		margin:0 5px -1px 0;
+		padding:0;
+		opacity: 0.6;
+	}
+	section#backup-options #tabs ul li:first-of-type{
+		border-left: none;
+	}
+	section#backup-options #tabs ul li.ui-state-active{
+		opacity: 1;
+	}
+ 
+		section#backup-options #tabs ul li a {
+			text-decoration:none;
+			
+			display:block;
+			outline:none;
+			padding:3px 20px;
+		}
+
+section#backup-options .inner {
+	background: #ffffff;
+	padding: 15px;
+}
+
+section#backup-options .button-primary {
+	color: #FFF !important;
+}
+
+/* File Browser */
+#backup-browser-status{
+	margin: 10px 0;
+}
+
+#backup_database-browser-table-content tr:nth-child(odd) {
+   	background: #FFFBF7;
+}
+
+#backup_database-browser-table-content tr:nth-child(even) {
+    background: #FFFFFF;
+}
+
+/* Comment out to show options */
+
+.delete a:after {
+	content: " ";
+}
+.options {
+	display: none;
+}

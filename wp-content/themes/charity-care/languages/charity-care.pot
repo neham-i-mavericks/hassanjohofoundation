@@ -1,0 +1,144 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Charity Care\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-09-19 09:48+0000\n"
+"PO-Revision-Date: 2018-09-19 09:48+0000\n"
+"Language-Team: English (United States)\n"
+"Language: en-US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: archive-give_forms.php:27
+msgid "Page"
+msgstr ""
+
+#: functions.php:56
+msgid "Give Section"
+msgstr ""
+
+#: functions.php:74
+msgid "Enable Give Section"
+msgstr ""
+
+#: functions.php:92
+msgid "Give Section Title"
+msgstr ""
+
+#: functions.php:110
+msgid "Give Section Content"
+msgstr ""
+
+#: functions.php:128
+msgid "Information Links"
+msgstr ""
+
+#: functions.php:138
+msgid "Need help?"
+msgstr ""
+
+#: functions.php:139
+msgid "View demo"
+msgstr ""
+
+#: functions.php:139 functions.php:140 functions.php:141 functions.php:142
+msgid "here"
+msgstr ""
+
+#: functions.php:140
+msgid "View documentation"
+msgstr ""
+
+#: functions.php:141
+msgid "Support ticket"
+msgstr ""
+
+#: functions.php:142
+msgid "More Details"
+msgstr ""
+
+#: functions.php:146
+msgid "About Charity Care"
+msgstr ""
+
+#: functions.php:226
+msgid "Give Donation Plugin"
+msgstr ""
+
+#: functions.php:280
+msgid "&copy; "
+msgstr ""
+
+#: functions.php:280
+msgid "Y"
+msgstr ""
+
+#: functions.php:288
+msgid "Charity Care by Rara Theme"
+msgstr ""
+
+#: functions.php:289
+#, php-format
+msgid "Powered by %s"
+msgstr ""
+
+#: functions.php:289
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: header.php:33 header.php:91
+msgid "Menu"
+msgstr ""
+
+#: header.php:85 sections/section-give.php:10 
+#: template-parts/content-give-form.php:9
+msgid "Donate Now"
+msgstr ""
+
+#. 1: amount of income raised 2: goal target amount.
+#: give/shortcode-goal.php:98
+#, php-format
+msgid ""
+"<span class=\"income\">%1$s</span> of <span class=\"goal-text\">%2$s</span> "
+"raised"
+msgstr ""
+
+#. 1: total number of donations completed 2: total number of donations set as goal
+#. 1: total number of donors completed 2: total number of donors set as goal
+#: give/shortcode-goal.php:107 give/shortcode-goal.php:112
+#, php-format
+msgid ""
+"<span class=\"income\">%1$s</span> of <span class=\"goal-text\">%2$s</span> "
+"donation"
+msgid_plural ""
+"<span class=\"income\">%1$s</span> of <span class=\"goal-text\">%2$s</span> "
+"donors"
+msgstr[0] ""
+msgstr[1] ""
+
+#: sections/section-give.php:74
+msgid "Goal: "
+msgstr ""
+
+#: sections/section-give.php:75
+msgid "Raised: "
+msgstr ""
+
+#. Name of the theme
+msgid "Charity Care"
+msgstr ""
+
+#. URI of the theme
+msgid "https://raratheme.com/wordpress-themes/charity-care/"
+msgstr ""
+
+#. Author of the theme
+msgid "Rara Theme"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://raratheme.com/"
+msgstr ""
